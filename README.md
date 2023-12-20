@@ -1,5 +1,6 @@
 # Git
-this is a repo where I will be putting all my git commands
+
+ - In this repo I have mentioned commonly used GIT commands.
 
 
 | Command | Description |
