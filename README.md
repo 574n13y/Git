@@ -3,7 +3,7 @@
 - In this repo I have mentioned commonly used GIT commands.
 
 | Command | Description |
-| :---         |     :---:      | 
+| :---         |     :---:      |
 | `git init` | Initialize a local Git repository |
 | `git clone repo_url` | Clone public repository |
 | `git clone ssh://git@github.com/[username]/[repository-name].git` | Clone private repository |
