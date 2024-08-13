@@ -13,7 +13,7 @@ Initialise an empty Git Repository
 git init
 ```
 
-Clone an existing Git Repository 
+Clone an existing Git Repository
 
 ```sh
 git clone <repository URL>
